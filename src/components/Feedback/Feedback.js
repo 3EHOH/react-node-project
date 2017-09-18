@@ -19,9 +19,9 @@ class Feedback extends React.Component {
           <a
             className={s.link}
             href="https://www.linkedin.com/in/zenon-evans-10b10373"
-          >{
-            "Want to collaborate? Let's talk."
-          }</a>
+          >
+            {"Want to collaborate? Let's talk."}
+          </a>
         </div>
       </div>
     );

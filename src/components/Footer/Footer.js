@@ -19,8 +19,9 @@ class Footer extends React.Component {
         <div className={s.container}>
           <span className={s.text}>Zenon Evans</span>
           <span className={s.spacer}>·</span>
-          <span className={s.text}>Site derived from <a href="https://www.reactstarterkit.com/">
-          Kriasoft boilerplate</a>
+          <span className={s.text}>
+            Site derived from{' '}
+            <a href="https://www.reactstarterkit.com/">Kriasoft boilerplate</a>
           </span>
         </div>
       </div>
